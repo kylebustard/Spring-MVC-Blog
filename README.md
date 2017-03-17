@@ -1,5 +1,5 @@
 # Spring-MVC-Blog
-###my first web app built with Java and Spring
+### My first web app built with Java and Spring
 
 ---
 
