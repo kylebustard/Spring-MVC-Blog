@@ -9,7 +9,7 @@
 
 ## To Do
 
-- figure out this error:
+- figure out this error, where the culprit lies between /src/resources/templates/index.html and src/resources/templates/layout.html :
 ``` 
 This application has no explicit mapping for /error, so you are seeing this as a fallback.
 
