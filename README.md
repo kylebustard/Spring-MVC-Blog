@@ -4,9 +4,8 @@
 ---
 
 ## Project Notes
-- I am using the tutorial available at [nakov.com](http://www.nakov.com/blog/2016/08/05/creating-a-blog-system-with-spring-mvc-thymeleaf-jpa-and-mysql/ as an initial guideline)
+- I am using the tutorial available at [nakov.com](http://www.nakov.com/blog/2016/08/05/creating-a-blog-system-with-spring-mvc-thymeleaf-jpa-and-mysql/) as an initial guideline.
 
-- view Wes Bos' [official source code](https://github.com/wesbos/JavaScript30)
 
 ## To Do
 
